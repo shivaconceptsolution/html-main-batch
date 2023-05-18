@@ -1,0 +1,38 @@
+HTML:-
+
+HTML means hypertext markup language, it is used to design web page using predefine html tag and attribute.
+
+hypertext means "text within tag"
+
+<body>  </body>
+
+<h1>  </h1>
+
+markup means predefined element , we can not create html element and attribute.
+
+basic structure of HTML:-
+
+<html>
+
+<head>
+         <title>  </title>
+         <link rel="icon" href="">
+         <meta keyword="" />
+         <style>
+
+         </style>
+         <script>
+
+         </script>
+</head>
+
+<body>
+      <html elements>
+
+</body>
+
+</html>
+
+....................................................
+
+
