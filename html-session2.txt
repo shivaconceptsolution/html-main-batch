@@ -1,0 +1,76 @@
+Type of Tag
+
+1) Single line closing :-  this tag will be started and end with single line statement.
+
+<br />
+<hr />
+
+all form elements excluding dropdownlist and listbox
+
+2) Multiple line closing:-  this tag contain separate start tag for opening and and separate end tag for closing.
+
+<div>
+
+</div>
+
+<span>
+
+</span>
+
+<p>
+
+</p>
+
+<html>
+
+</html>
+.....................................................................
+
+List Tag:-
+
+It is used to create list item using ordered list, unorderd list and defination list.
+
+1) Ordered List
+ol means orderd list and li means list item.
+
+<ol>
+Courses
+<li>Basic Course</li>
+<li>Advance Course</li>
+<li>Designing Course</li>
+</ol>
+
+2) Unorderd List:-
+  it contain set of list items without any sequence.
+  <ul>
+    Title
+    <li> Content....</li>
+    ...
+  </ul>
+
+3) Defination List:-
+   It contain set of list items to define data.
+   dl means defination list, dt means defination title and dd means defination description.
+   <dl>
+       <dt>  <dd>   </dd> </dt>
+       
+    </dl>
+
+.......................................................
+
+<sup>  and <sub>
+
+<sup> means superscript and <sub> means subscript. 
+
+a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>;
+
+.................................................
+
+<pre>  :-  it read whitespace under HTML web page
+
+
+
+
+
+
+
